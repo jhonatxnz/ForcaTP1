@@ -1,0 +1,10 @@
+C:\Users\computador\OneDrive - Universidade Estadual de Campinas\Documentos\cotuca\primeiro semestre\TP1-Chico\projeto 3\21254_21686_Proj3\bin\Release\21254_21686_Proj3.exe.config
+C:\Users\computador\OneDrive - Universidade Estadual de Campinas\Documentos\cotuca\primeiro semestre\TP1-Chico\projeto 3\21254_21686_Proj3\bin\Release\21254_21686_Proj3.exe
+C:\Users\computador\OneDrive - Universidade Estadual de Campinas\Documentos\cotuca\primeiro semestre\TP1-Chico\projeto 3\21254_21686_Proj3\bin\Release\21254_21686_Proj3.pdb
+C:\Users\computador\OneDrive - Universidade Estadual de Campinas\Documentos\cotuca\primeiro semestre\TP1-Chico\projeto 3\21254_21686_Proj3\obj\Release\21254_21686_Proj3.csprojAssemblyReference.cache
+C:\Users\computador\OneDrive - Universidade Estadual de Campinas\Documentos\cotuca\primeiro semestre\TP1-Chico\projeto 3\21254_21686_Proj3\obj\Release\_21254_21686_Proj3.FrmForca.resources
+C:\Users\computador\OneDrive - Universidade Estadual de Campinas\Documentos\cotuca\primeiro semestre\TP1-Chico\projeto 3\21254_21686_Proj3\obj\Release\_21254_21686_Proj3.Properties.Resources.resources
+C:\Users\computador\OneDrive - Universidade Estadual de Campinas\Documentos\cotuca\primeiro semestre\TP1-Chico\projeto 3\21254_21686_Proj3\obj\Release\21254_21686_Proj3.csproj.GenerateResource.cache
+C:\Users\computador\OneDrive - Universidade Estadual de Campinas\Documentos\cotuca\primeiro semestre\TP1-Chico\projeto 3\21254_21686_Proj3\obj\Release\21254_21686_Proj3.csproj.CoreCompileInputs.cache
+C:\Users\computador\OneDrive - Universidade Estadual de Campinas\Documentos\cotuca\primeiro semestre\TP1-Chico\projeto 3\21254_21686_Proj3\obj\Release\21254_21686_Proj3.exe
+C:\Users\computador\OneDrive - Universidade Estadual de Campinas\Documentos\cotuca\primeiro semestre\TP1-Chico\projeto 3\21254_21686_Proj3\obj\Release\21254_21686_Proj3.pdb
