@@ -1,2 +1,2 @@
 # ForcaTP1
-<img src="https://sites.google.com/site/raciociniologiconte/_/rsrc/1394802466247/enigmas/atividades/forca.png?height=222&width=400"></img>
+<img src="https://www.atividadeseducativas.com.br/atividades/225_forca/images/Enforcado.gif"></img>
